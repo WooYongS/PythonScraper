@@ -1,0 +1,50 @@
+Your score is: 9/9
+Question 1 of 9
+Correct
+How can I create a variable in Python?
+
+age = 34
+Question 2 of 9
+Correct
+Python reads code from top to bottom
+
+True
+Question 3 of 9
+Correct
+Variables can have a space on their name
+
+False
+Question 4 of 9
+Correct
+This is valid Python code:
+
+myName = "nico"
+True
+Question 5 of 9
+Correct
+Python variables can start with a number
+
+False
+Question 6 of 9
+Correct
+What is the data type of this variable?
+
+my_age = "34"
+String
+Question 7 of 9
+Correct
+This is a boolean:
+
+dead = "True"
+False
+Question 8 of 9
+Correct
+This is a boolean:
+
+dead = true
+False
+Question 9 of 9
+Correct
+false is the same as False in Python
+
+False
