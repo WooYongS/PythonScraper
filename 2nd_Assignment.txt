@@ -1,0 +1,34 @@
+Here are the answers to your questions:
+
+False
+
+The correct function definition should use def instead of fun:
+python
+복사
+편집
+def say_hello():
+    print("hello")
+False
+
+The function cheer() is defined correctly, but it must be called using cheer() with parentheses.
+start()
+
+This is the correct way to call a function in Python.
+False
+
+The function hello() has incorrect indentation. The correct version should be:
+python
+복사
+편집
+def hello():
+    print("hi!")
+False
+
+The function alert() is defined without parameters, but alert("error detected") is calling it with an argument, which will result in an error.
+False
+
+Function names cannot start with a number in Python.
+False
+
+The function alert(error) expects an argument, but alert() is called without one, causing an error.
+Let me know if you need any clarifications! 😊
