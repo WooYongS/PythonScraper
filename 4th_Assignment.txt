@@ -1,0 +1,19 @@
+False – print() is a built-in function, while 'nico'.upper() is a method because it's bound to the string object 'nico'.
+
+Functions bound to a Python object – Methods are functions that belong to an object, like .upper() for strings.
+
+True – Lists are mutable, meaning their elements can be modified.
+
+False – Tuples are immutable, meaning their elements cannot be changed after creation.
+
+food[3] – Indexing starts from 0, so food[3] accesses '🍎'.
+
+food[1] – Tuples use zero-based indexing, so food[1] accesses '🍕'.
+
+False – Dictionaries (dicts) are mutable, meaning key-value pairs can be changed, added, or removed.
+
+False – Lists and tuples can contain any data type, including strings, booleans, and other objects.
+
+True – It is possible to create a list of tuples, like [(1, 2), (3, 4)].
+
+Let me know if you need explanations! 🚀
