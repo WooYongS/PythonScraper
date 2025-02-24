@@ -1,0 +1,40 @@
+Here are the correct answers:
+
+Object Oriented Programming – OOP stands for Object-Oriented Programming.
+
+False – OOP is not exclusive to Python; it's used in many languages like Java, C++, and JavaScript.
+
+False – OOP is a core part of Python and does not require enabling in settings.
+
+A paradigm for organizing code – OOP is a way to structure code using objects and classes.
+
+It is a function inside of a class – Methods are functions that belong to a class.
+
+True – The __init__ method is automatically called when an instance of a class is created.
+
+A reference to the instance of the class – The first argument of instance methods is self, which refers to the instance.
+
+__init__(self, name) – The __init__ method should include self and name as parameters.
+
+False – Python does not automatically call __to_string__. Instead, it calls __str__ when printing an object.
+
+False – Classes have many dunder methods (__init__, __str__, __repr__, __len__, etc.), not just two.
+
+To share common properties and methods among many classes – Inheritance allows multiple classes to share functionality.
+
+class Woman(Human) – In Python, a subclass is defined by placing the parent class in parentheses.
+
+To the parent class – super() refers to the parent class and is used to access its methods.
+
+The methods and properties – A subclass inherits both methods and properties from the parent class.
+
+True – Subclasses can have unique methods and properties that differentiate them from other subclasses of the same parent class.
+
+Let me know if you need explanations! 🚀
+
+
+
+
+
+
+
